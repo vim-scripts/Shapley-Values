@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3178
+
+The script provides tools to compute:
+Shapley Value (also using Ieong-Shoham rules) of a Normal form game,
+McQuillin-Shapley value
+Pham-Do-Norde-Shapley value 
+Meyrson-Shapley values                (all three for games in partition form, i.e. with externalities) 
+
